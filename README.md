@@ -22,7 +22,7 @@ If you ever find yourself stuck, get googling! Decompose your problem into the
 core issue and search for that issue. Stack Overflow will likely be the best
 place for answers. Similarly, documentation sites such as [CPPReference](https://en.cppreference.com/w/)
 are brilliant when you are working with specific functions or libraries.
-(Similar documentation sites exist for [SDL](https://wiki.libsdl.org/SDL3/FrontPage)
+(Similar documentation sites exist for [SDL2](https://wiki.libsdl.org/SDL2/FrontPage)
 and [Qt](https://doc.qt.io/qt-6/qtwidgets-index.html))
 
 You can also do the same with any error codes the terminal sends back at you. 
