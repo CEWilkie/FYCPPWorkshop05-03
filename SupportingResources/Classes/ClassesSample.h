@@ -1,0 +1,14 @@
+//
+// Created by cew05 on 03/03/2025.
+//
+
+#ifndef CPPSUPPORTWORKSHOP_CLASSESSAMPLE_H
+#define CPPSUPPORTWORKSHOP_CLASSESSAMPLE_H
+
+
+namespace samples {
+
+}
+
+
+#endif //CPPSUPPORTWORKSHOP_CLASSESSAMPLE_H

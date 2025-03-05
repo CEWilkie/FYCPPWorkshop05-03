@@ -12,7 +12,7 @@
 void samples::readFile() {
 
     // Create file object to read from
-    const std::string path = "../SupportingResources/FileIO/FileIO.md";
+    const std::string path = "../SupportingResources/FileIO/README.md";
     std::fstream file(path);
 
     // Now use a loop to read all lines from the file
